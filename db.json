@@ -1,0 +1,37 @@
+[
+  {
+    "firstName": "Johnny",
+    "lastName": "Tiff",
+    "emailAddress": "johnnyt@gmail.com",
+    "speciaity": "Dentistry",
+    "practiceName": "Fresh Smile Central"
+  },
+  {
+    "firstName": Grant",
+    "lastName": "Donecar",
+    "emailAddress": "johnnyt@yahoo.com",
+    "speciaity": "Dentistry",
+    "practiceName": "Cleveland Central Hospital"
+  },
+  {
+    "firstName": "Lady",
+    "lastName": "Crenshaw",
+    "emailAddress": "crent@trebuchet.com",
+    "speciaity": "Other",
+    "practiceName": "Trebuchet Chiropractor"
+  },
+  {
+    "firstName": "Reginald",
+    "lastName": "Cakit",
+    "emailAddress": "kitty@cakit.com",
+    "speciaity": "N/A",
+    "practiceName": "Ohio Department of Health"
+  },
+  {
+    "firstName": "Cathy",
+    "lastName": "Cooke",
+    "emailAddress": "cooke@happypets.vet",
+    "speciaity": "Other",
+    "practiceName": "Happiness is Pets Vet"
+  }
+]
